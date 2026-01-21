@@ -4,22 +4,6 @@ This repository presents **practical control-system analysis using Python and Ju
 
 Each notebook models a real-world robotic subsystem and validates control theory concepts such as **time-domain performance, stability, and delay effects** through simulation.
 
----
-
-## 📦 Repository Structure
-
-```
-
-├── requirements.txt
-├── readme.md
-├── problem_1_joint_control.ipynb
-├── problem_2_balancing_robot.ipynb
-└── problem_3_time_delay_robot.ipynb
-
-````
-
----
-
 ## ⚙️ Requirements
 
 All dependencies are listed in `requirements.txt`.
